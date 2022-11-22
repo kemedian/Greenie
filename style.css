@@ -1,3 +1,4 @@
+
 body {
   font-family: "Poppins", sans-serif;
 }
@@ -229,4 +230,33 @@ nav {
 }
 .page77_ {
   text-align: center;
+}
+.backend {
+  text-align: center;
+  margin-top: 230px;
+}
+.plant-icon {
+  width: 50px;
+ 
+}
+.backend-img {
+  text-align: center;
+ margin-top: 50px;
+}
+h3 {
+  color: white;
+  padding-top: 100px;
+}
+footer {
+margin: 0;
+}
+.footer-contents {
+  text-align: center;
+  
+  margin-top: 150px;
+  background-image: url("/assets/background.webp");
+  background-repeat: no-repeat;
+}
+.email-input {
+  padding-top: 70px;
 }
