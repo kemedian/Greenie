@@ -1,0 +1,211 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.logo img {
+    width: 150px;
+    
+}
+.logo {
+    margin-right: 30%;
+}
+.content {
+    display: flex;
+}
+.nav-items ul {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 13px;
+    margin-top: 25px;
+
+}
+.nav-items a {
+    text-decoration: none;
+    color: #888888;
+}
+.demo {
+    border: 1px solid black;
+    padding: 5px 20px;
+    position: relative;
+    bottom: 5px;
+}
+.demo:hover{
+    background-color: #224229;
+    color: white;
+    transition: all 1s  ease-in-out;
+}
+.content {
+    margin: 0 200px;
+    
+}
+nav {
+    border-bottom: 1px solid black;
+}
+.page1 {
+    display: flex;
+    margin: 100px 200px;
+}
+.content1 {
+    width: 60%;
+    margin-right: 20px;
+}
+.image1 {
+    width: 40%;
+}
+.image11 {
+    width: 450px;
+    margin-left: 10px;
+}
+.one {
+    color: #224229;
+    font-size: 48px;
+    font-weight: 100;
+}
+.ones {
+    font-style: italic;
+    
+}
+.generalp {
+    line-height: 7px;
+    margin-bottom: 50px;
+}
+.p1 {
+    color:#8A9CAA;
+    font-size: 17px;
+    
+}
+.p2 {
+    color:#8A9CAA;
+    font-size: 17px;
+
+}
+.signup {
+    padding: 13px 25px;
+    border: 1px solid #888888;
+    width: 65px;
+    padding: 13px 45px;
+}
+.page2 {
+    display: flex;
+    margin: 200px 250px;
+}
+.image2 {
+    width: 50%;
+
+}
+.content2 {
+    width: 50%;
+}
+.image22 {
+    width: 400px;
+}
+.generalp2 {
+    font-size: 17px;
+    line-height: 30px;
+    color:#8A9CAA;
+    
+}
+.two {
+    font-size: 48px;
+}
+.page3 {
+    display: flex;
+    margin: 200px 250px;
+}
+.content3 {
+    width: 50%;
+}
+.image3 {
+    width: 50%;
+    margin-left: 65px;
+}
+.image33 {
+    width: 480px;  
+}
+.three {
+    font-size: 48px;
+}
+.generalp3 {
+    font-size: 17px;
+    line-height: 30px;
+    color:#8A9CAA;
+}
+.content4 {
+    text-align: center;
+}
+.four {
+    font-size: 30px;
+}
+.fours {
+    color:#8A9CAA;
+    letter-spacing: 1px;
+    word-spacing: 1px; 
+}
+
+.page5 {
+    display: flex;
+    margin: 100px 200px 20px 200px;
+}
+.middle {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-top: 50px;
+}
+
+.image4 {
+    width: 300px; 
+    border-radius: 13px;
+    margin-right: 180px;
+}
+
+.image44 {
+    width: 80px; 
+    margin: 0 10px;
+    
+}
+.image444 {
+    width: 300px; 
+    border-radius: 13px;
+    margin-left: 180px;
+}
+.p3 {
+    color:#8A9CAA;
+}
+.page5_ {
+    display: flex;
+    margin: 0 280px;
+}
+.page555_ {
+    margin-left: 650px;
+    text-align: center;
+    
+}
+.page55_ {
+    text-align: center;
+}
+.page6 {
+    margin-top: 230px;
+    text-align: center;
+}
+.fives {
+    letter-spacing: 1px;
+    word-spacing: 1px; 
+    color:#8A9CAA;
+}
+.page7 {
+    display: flex;
+    margin: 100px 200px 20px 200px;
+}
+.page7_ {
+    display: flex;
+    margin: 0 280px;
+}
+.page777_ {
+    margin-left: 640px;
+    text-align: center;
+}
+.page77_ {
+    text-align: center;
+}
