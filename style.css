@@ -259,4 +259,31 @@ margin: 0;
 }
 .email-input {
   padding-top: 70px;
+  opacity: 0.5;
+  
+}
+.email {
+  
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding: 20px 30px;
+  margin-right: -15px;
+}
+.sub {
+  
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px 30px;
+  margin-left: -15px;
+}
+.email::-webkit-input-placeholder { /* Edge */
+  color: red;
+}
+
+.email:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: red;
+}
+
+.email::placeholder {
+  color: red;
 }
