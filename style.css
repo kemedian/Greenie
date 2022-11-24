@@ -249,19 +249,15 @@ h3 {
   padding-top: 100px;
 }
 footer {
-margin: 0;
-}
-.footer-contents {
-  text-align: center;
-  
   margin-top: 150px;
-  background-image: url("/assets/background.webp");
+background-image: url("/assets/background.webp");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
  
-
-  
 }
+
 .email-input {
   padding-top: 70px;
   display: flex;
@@ -304,10 +300,13 @@ margin: 0;
   color: #8a9caa;
 } 
 
+
+
 .last {
   display: flex;
   justify-content: center;
   margin-top: 50px;
+  padding-bottom: 250px;
   
   
   
@@ -324,7 +323,7 @@ margin: 0;
 .linkedin {
   border: none;
   border-radius: 50%;
-  background: #295322;
+  background: #295322; 
   padding: 12px;
   color: #fff;
 }
